@@ -12,7 +12,7 @@
     border: 2px solid red;
 }
 header{
-    background: rgb(189, 227, 189);
+    background: rgb(128, 118, 118);
 }
 
 
@@ -54,9 +54,9 @@ nav{
     }
 }
 .hero{
-    background-image: url(./img/fresh-sandwich-chalkboard-background-advertisement-poster_1284-19550.avif);
+    background-image: url(./img/pngtree-variety-of-indian-food-in-front-of-a-dark-wooden-table-image_2930880.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
-    height: 800px;
+    height: 600px;
 }
