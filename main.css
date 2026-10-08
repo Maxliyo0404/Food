@@ -55,5 +55,16 @@ nav {
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
-  height: 600px;
+
+}
+.hero-wrapper{
+    max-width: 900px;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    padding:  120px;
+    text-align: center;
+    color: white;
 }
