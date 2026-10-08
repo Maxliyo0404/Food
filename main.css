@@ -87,9 +87,9 @@ nav {
 }
 .pro-item{
     width: 100%;
-   
       position: relative;
       padding: 40px;
+      box-shadow: 15px 17px 20px 30px gainsboro;
 
 }
 .pro-img{
