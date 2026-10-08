@@ -138,6 +138,9 @@ h3{
 @media (max-width: 768px) {
   .header-list {
     display: none; 
+    .header-btn{
+        display: block;
+    }
   }
 
   .pro-list {
