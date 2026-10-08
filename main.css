@@ -89,7 +89,7 @@ nav {
     width: 100%;
       position: relative;
       padding: 40px;
-      box-shadow: 15px 17px 20px 30px gainsboro;
+      ba
 
 }
 .pro-img{
@@ -107,4 +107,5 @@ h3{
     color: red;
     position: absolute;
     bottom: 10px;
+    left: 40px;
 }
