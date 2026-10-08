@@ -79,3 +79,7 @@ nav {
     line-height: 30px;
    
 }
+.pro-list{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
