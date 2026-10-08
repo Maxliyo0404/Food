@@ -83,3 +83,6 @@ nav {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
 }
+.pro-img{
+    width: 200px;
+}
