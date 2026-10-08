@@ -87,7 +87,9 @@ nav {
 .pro-item{
     width: 100%;
     border: 1px solid red;
+    position: relative;
 }
 .pro-img{
     width: 300px;
+    position: ;
 }
