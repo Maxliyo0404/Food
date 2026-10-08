@@ -54,5 +54,9 @@ nav{
     }
 }
 .hero{
-    background-image: url();
+    background-image: url(./img/fresh-sandwich-chalkboard-background-advertisement-poster_1284-19550.avif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 800px;
 }
