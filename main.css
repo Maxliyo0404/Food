@@ -123,6 +123,8 @@ h3{
     right: 20px;
 }
 .star{
-    width: 20px;
+    width: 25px;
     position: absolute;
+    top: 10px;
+    left: 20px;
 }
