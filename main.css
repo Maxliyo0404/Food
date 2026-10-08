@@ -68,6 +68,11 @@ nav {
     text-align: center;
     color: white;
 }
+.proo{
+     font-weight: 700;
+    font-size: 20px;
+    line-height: 30px;
+}
 .hero-title{
     font-weight: 900;
     font-size: 40px;
