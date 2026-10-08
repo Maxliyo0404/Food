@@ -92,9 +92,6 @@ nav {
       padding: 40px;
        box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.15),0 10px 10px -5px rgba(0, 0, 0, 0.08);
        transition: all 0.3s ease;
-              .pro-item:hover {
-  transform:; 
-  box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.15), 0 10px 10px -10px rgba(0, 0, 0, 0.08);
 }
 
 }
